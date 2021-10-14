@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4249c689.chunk.css",
-    "main.js": "/static/js/main.088d89c6.chunk.js",
-    "main.js.map": "/static/js/main.088d89c6.chunk.js.map",
+    "main.js": "/static/js/main.b0f38e08.chunk.js",
+    "main.js.map": "/static/js/main.b0f38e08.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ab09bd88.js",
     "runtime-main.js.map": "/static/js/runtime-main.ab09bd88.js.map",
     "static/css/2.c8f58167.chunk.css": "/static/css/2.c8f58167.chunk.css",
@@ -90,7 +90,6 @@
     "static/media/PinkWojakCube.7b282238.png": "/static/media/PinkWojakCube.7b282238.png",
     "static/media/PoopCube.f2975109.png": "/static/media/PoopCube.f2975109.png",
     "static/media/Popcorn Cube-1.png.468136c9.png": "/static/media/Popcorn Cube-1.png.468136c9.png",
-    "static/media/RareSCREAMCube2.4a83139e.png": "/static/media/RareSCREAMCube2.4a83139e.png",
     "static/media/RastafarianCube.33654195.png": "/static/media/RastafarianCube.33654195.png",
     "static/media/ReaperCube-1.c2716f4f.png": "/static/media/ReaperCube-1.c2716f4f.png",
     "static/media/ReaperCube.fc421655.png": "/static/media/ReaperCube.fc421655.png",
@@ -125,7 +124,6 @@
     "static/media/ZombieCube.69d9e72c.png": "/static/media/ZombieCube.69d9e72c.png",
     "static/media/ZooCube.2d218462.png": "/static/media/ZooCube.2d218462.png",
     "static/media/ftmcubegif.e5d21b96.gif": "/static/media/ftmcubegif.e5d21b96.gif",
-    "static/media/galleryimage1.1373f94c.png": "/static/media/galleryimage1.1373f94c.png",
     "static/media/galleryimage2.8cfd5e4d.png": "/static/media/galleryimage2.8cfd5e4d.png",
     "static/media/galleryimage5.8475c30f.png": "/static/media/galleryimage5.8475c30f.png",
     "static/media/index.css": "/static/media/inter-vietnamese-400-normal.bc4d5149.woff2",
@@ -136,6 +134,6 @@
     "static/css/2.c8f58167.chunk.css",
     "static/js/2.3fae5e1b.chunk.js",
     "static/css/main.4249c689.chunk.css",
-    "static/js/main.088d89c6.chunk.js"
+    "static/js/main.b0f38e08.chunk.js"
   ]
 }

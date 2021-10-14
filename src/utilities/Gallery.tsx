@@ -1,8 +1,8 @@
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import { Grid } from '@material-ui/core';
-import galleryImage01 from '../images/galleryimage1.png'
-import galleryImage02 from '../images/galleryimage2.png'
-import galleryImage03 from '../images/galleryimage3.png'
+import galleryImage01 from '../images/Common/FantomGradientCube.png'
+import galleryImage02 from '../images/Google Analytics Dashboard.png'
+import galleryImage03 from '../images/Rare/McDonaldsCube.png'
 
 
 const useStyles = makeStyles((theme: Theme) =>

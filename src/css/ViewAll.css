@@ -20,7 +20,7 @@
     box-sizing: border-box;
 }
 #_viewAll_area .viewAll_inner img {
-    max-width: 100%;
+    max-width: 90%;
     height: auto;
     border-style: none;
 }

@@ -1,6 +1,6 @@
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import { Grid, IconButton } from '@material-ui/core';
-import galleryImage from '../images/galleryimage5.png'
+import galleryImage from '../images/LilFTMCube_fantom_rev_clipped_rev_2.png'
 import TwitterIcon from '@material-ui/icons/Twitter';
 
 
